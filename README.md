@@ -13,10 +13,10 @@ sudo apt install redis-server
 
 # 4. Install Redis on CPP:
 In CPP you need to install both hiredis and redis-plus-plus.
-*************** Attention:  Please insure that only one version of hiredis and redis-plus-plus installed on your system.
+Attention:  Please insure that only one version of hiredis and redis-plus-plus installed on your system.
 ## 4.1. First please update your system using following commands:
-sudo apt update
-sudo apt upgrade
+'''sudo apt update
+sudo apt upgrade'''
 
 ## 4.2. Then it is needed to run the command below to install "g++" and "cmake":
 sudo apt install build-essential cmake git

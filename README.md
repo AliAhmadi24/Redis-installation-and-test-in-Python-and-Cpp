@@ -54,7 +54,7 @@ It is needed to run the command below to install "g++" and "cmake":
 ### 4.4.3. Create a build directory and navidate to that:
 
     mkdir -p build
-    cd build
+    
 
 ### 4.4.4. use cmake to generate build files:
 

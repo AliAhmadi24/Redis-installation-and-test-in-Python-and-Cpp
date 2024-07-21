@@ -1,7 +1,7 @@
 
 # Redis installation and test in Python and Cpp
 # 1. Introduction:
-I would like to thank MH Mokhtarabadi for introducing Redis to me.
+I would like to thank ![n]{hhh} MH Mokhtarabadi for introducing Redis to me.
 After encountering some issues while using and installing Redis, I decided to document and share this step-by-step guide.
 
 # 2. Description :

@@ -38,7 +38,7 @@ It is needed to run the command below to install "g++" and "cmake":
 
     make
     sudo make install
-    cd
+    cd ..
 
 ## 4.4 install redis-plus-plus:
 
@@ -68,7 +68,12 @@ It is needed to run the command below to install "g++" and "cmake":
 
     sudo ldconfig
 
+
 # 5. install Redis on Python:
 
     pip install redis
+
+# 6. Test Installation: 
+To test and validate the installation, open termianl in the cloned directory and run testRedis.sh:
+	./testRedis.sh
 

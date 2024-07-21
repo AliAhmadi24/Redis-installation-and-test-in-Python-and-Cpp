@@ -75,6 +75,7 @@ It is needed to run the command below to install "g++" and "cmake":
     pip install redis
 
 # 6. Test Installation: 
+You must allow "./testRedis.sh" to be executable.
 To test and validate the installation, open termianl in the cloned directory and run testRedis.sh:
 	
 

@@ -1,4 +1,5 @@
 
+
 # Redis installation and test in Python and Cpp
 # 1. Introduction:
 I would like to thank [MH Mokhtarabadi](https://github.com/mhmokhtarabadi) for introducing Redis to me.
@@ -75,5 +76,7 @@ It is needed to run the command below to install "g++" and "cmake":
 
 # 6. Test Installation: 
 To test and validate the installation, open termianl in the cloned directory and run testRedis.sh:
-	./testRedis.sh
+	
+
+    ./testRedis.sh
 

@@ -81,3 +81,7 @@ To test and validate the installation, open termianl in the cloned directory and
 
     ./testRedis.sh
 
+# 7. Describtion about files:
+setRedis.py: Set a variable with the value of 10 in refis env.
+getRedis: This file is compiled version of getRedis.cpp, and get the value of the variable. You can compile gerRedis.cpp using this command:
+g++ -std=c++17 getRedis.cpp -o getRedis -lredis++ -lhiredis

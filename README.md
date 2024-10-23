@@ -14,7 +14,7 @@ In this repo you can find a short guide to installing Redis on CPP and Python. A
 
 # 4. Install Redis on CPP:
 In CPP you need to install both hiredis and redis-plus-plus.
-Attention:  Please ensure that only one version of hiredis and redis-plus-plus installed on your system.
+Attention:  Please ensure that only one version of hiredis and redis-plus-plus are installed on your system.
 ## 4.1. Update your system using following commands:
 
     sudo apt update
